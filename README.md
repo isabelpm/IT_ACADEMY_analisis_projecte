@@ -1,2 +1,3 @@
 # it-frontend
-itinerari frontend- exercicis
+Itinerari frontend- exercicis
+Pujats els dos primers arxius al github
