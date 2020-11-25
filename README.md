@@ -1,3 +1,3 @@
 # it-frontend
-Itinerari frontend- exercicis anàlisis de projecte
+Exercicis anàlisis de projecte
 Pujats els dos primers arxius al github
